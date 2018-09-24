@@ -1,0 +1,9 @@
+C:\Users\sulav\source\repos\FactoryPattern\FactoryExample\BO\bin\Debug\BO.dll
+C:\Users\sulav\source\repos\FactoryPattern\FactoryExample\BO\bin\Debug\BO.pdb
+C:\Users\sulav\source\repos\FactoryPattern\FactoryExample\BO\bin\Debug\TYPES.dll
+C:\Users\sulav\source\repos\FactoryPattern\FactoryExample\BO\bin\Debug\TYPES.pdb
+C:\Users\sulav\source\repos\FactoryPattern\FactoryExample\BO\obj\Debug\BO.csprojAssemblyReference.cache
+C:\Users\sulav\source\repos\FactoryPattern\FactoryExample\BO\obj\Debug\BO.csproj.CoreCompileInputs.cache
+C:\Users\sulav\source\repos\FactoryPattern\FactoryExample\BO\obj\Debug\BO.csproj.CopyComplete
+C:\Users\sulav\source\repos\FactoryPattern\FactoryExample\BO\obj\Debug\BO.dll
+C:\Users\sulav\source\repos\FactoryPattern\FactoryExample\BO\obj\Debug\BO.pdb

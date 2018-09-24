@@ -1,0 +1,6 @@
+C:\Users\sulav\source\repos\FactoryPattern\FactoryExample\TYPES\bin\Debug\TYPES.dll
+C:\Users\sulav\source\repos\FactoryPattern\FactoryExample\TYPES\bin\Debug\TYPES.pdb
+C:\Users\sulav\source\repos\FactoryPattern\FactoryExample\TYPES\obj\Debug\TYPES.csprojAssemblyReference.cache
+C:\Users\sulav\source\repos\FactoryPattern\FactoryExample\TYPES\obj\Debug\TYPES.csproj.CoreCompileInputs.cache
+C:\Users\sulav\source\repos\FactoryPattern\FactoryExample\TYPES\obj\Debug\TYPES.dll
+C:\Users\sulav\source\repos\FactoryPattern\FactoryExample\TYPES\obj\Debug\TYPES.pdb

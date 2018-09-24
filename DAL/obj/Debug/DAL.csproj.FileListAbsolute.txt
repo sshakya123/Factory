@@ -1,0 +1,13 @@
+C:\Users\sulav\source\repos\FactoryPattern\FactoryExample\DAL\bin\Debug\DAL.dll
+C:\Users\sulav\source\repos\FactoryPattern\FactoryExample\DAL\bin\Debug\DAL.pdb
+C:\Users\sulav\source\repos\FactoryPattern\FactoryExample\DAL\bin\Debug\BO.dll
+C:\Users\sulav\source\repos\FactoryPattern\FactoryExample\DAL\bin\Debug\FactoryBO.dll
+C:\Users\sulav\source\repos\FactoryPattern\FactoryExample\DAL\bin\Debug\TYPES.dll
+C:\Users\sulav\source\repos\FactoryPattern\FactoryExample\DAL\bin\Debug\BO.pdb
+C:\Users\sulav\source\repos\FactoryPattern\FactoryExample\DAL\bin\Debug\FactoryBO.pdb
+C:\Users\sulav\source\repos\FactoryPattern\FactoryExample\DAL\bin\Debug\TYPES.pdb
+C:\Users\sulav\source\repos\FactoryPattern\FactoryExample\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\sulav\source\repos\FactoryPattern\FactoryExample\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\sulav\source\repos\FactoryPattern\FactoryExample\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\sulav\source\repos\FactoryPattern\FactoryExample\DAL\obj\Debug\DAL.dll
+C:\Users\sulav\source\repos\FactoryPattern\FactoryExample\DAL\obj\Debug\DAL.pdb

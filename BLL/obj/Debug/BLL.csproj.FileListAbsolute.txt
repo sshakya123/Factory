@@ -1,0 +1,15 @@
+C:\Users\sulav\source\repos\FactoryPattern\FactoryExample\BLL\bin\Debug\BLL.dll
+C:\Users\sulav\source\repos\FactoryPattern\FactoryExample\BLL\bin\Debug\BLL.pdb
+C:\Users\sulav\source\repos\FactoryPattern\FactoryExample\BLL\bin\Debug\BO.dll
+C:\Users\sulav\source\repos\FactoryPattern\FactoryExample\BLL\bin\Debug\DAL.dll
+C:\Users\sulav\source\repos\FactoryPattern\FactoryExample\BLL\bin\Debug\FactoryBO.dll
+C:\Users\sulav\source\repos\FactoryPattern\FactoryExample\BLL\bin\Debug\FACTORYDAL.dll
+C:\Users\sulav\source\repos\FactoryPattern\FactoryExample\BLL\bin\Debug\BO.pdb
+C:\Users\sulav\source\repos\FactoryPattern\FactoryExample\BLL\bin\Debug\DAL.pdb
+C:\Users\sulav\source\repos\FactoryPattern\FactoryExample\BLL\bin\Debug\FactoryBO.pdb
+C:\Users\sulav\source\repos\FactoryPattern\FactoryExample\BLL\bin\Debug\FACTORYDAL.pdb
+C:\Users\sulav\source\repos\FactoryPattern\FactoryExample\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\sulav\source\repos\FactoryPattern\FactoryExample\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\sulav\source\repos\FactoryPattern\FactoryExample\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\sulav\source\repos\FactoryPattern\FactoryExample\BLL\obj\Debug\BLL.dll
+C:\Users\sulav\source\repos\FactoryPattern\FactoryExample\BLL\obj\Debug\BLL.pdb

@@ -1,0 +1,11 @@
+C:\Users\sulav\source\repos\FactoryPattern\FactoryExample\FactoryBO\bin\Debug\FactoryBO.dll
+C:\Users\sulav\source\repos\FactoryPattern\FactoryExample\FactoryBO\bin\Debug\FactoryBO.pdb
+C:\Users\sulav\source\repos\FactoryPattern\FactoryExample\FactoryBO\bin\Debug\BO.dll
+C:\Users\sulav\source\repos\FactoryPattern\FactoryExample\FactoryBO\bin\Debug\TYPES.dll
+C:\Users\sulav\source\repos\FactoryPattern\FactoryExample\FactoryBO\bin\Debug\BO.pdb
+C:\Users\sulav\source\repos\FactoryPattern\FactoryExample\FactoryBO\bin\Debug\TYPES.pdb
+C:\Users\sulav\source\repos\FactoryPattern\FactoryExample\FactoryBO\obj\Debug\FactoryBO.csprojAssemblyReference.cache
+C:\Users\sulav\source\repos\FactoryPattern\FactoryExample\FactoryBO\obj\Debug\FactoryBO.csproj.CoreCompileInputs.cache
+C:\Users\sulav\source\repos\FactoryPattern\FactoryExample\FactoryBO\obj\Debug\FactoryBO.csproj.CopyComplete
+C:\Users\sulav\source\repos\FactoryPattern\FactoryExample\FactoryBO\obj\Debug\FactoryBO.dll
+C:\Users\sulav\source\repos\FactoryPattern\FactoryExample\FactoryBO\obj\Debug\FactoryBO.pdb
