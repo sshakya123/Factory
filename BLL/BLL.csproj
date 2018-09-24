@@ -61,6 +61,10 @@
       <Project>{24e54c45-2ae5-42dd-be53-9264f4495a37}</Project>
       <Name>FACTORYDAL</Name>
     </ProjectReference>
+    <ProjectReference Include="..\TYPES\TYPES.csproj">
+      <Project>{87bf131d-4bca-4cec-8ea1-80930c44767b}</Project>
+      <Name>TYPES</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

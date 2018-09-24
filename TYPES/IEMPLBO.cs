@@ -8,6 +8,7 @@ namespace TYPES
 {
     public interface IEMPLBO
     {
-
+        string Username { get; set; }
+        string Password { get; set; }
     }
 }

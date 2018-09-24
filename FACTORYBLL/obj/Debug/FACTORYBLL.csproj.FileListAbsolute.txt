@@ -9,3 +9,7 @@ C:\Users\sulav\source\repos\FactoryPattern\FactoryExample\FACTORYBLL\obj\Debug\F
 C:\Users\sulav\source\repos\FactoryPattern\FactoryExample\FACTORYBLL\obj\Debug\FACTORYBLL.csproj.CopyComplete
 C:\Users\sulav\source\repos\FactoryPattern\FactoryExample\FACTORYBLL\obj\Debug\FACTORYBLL.dll
 C:\Users\sulav\source\repos\FactoryPattern\FactoryExample\FACTORYBLL\obj\Debug\FACTORYBLL.pdb
+C:\Users\sulav\source\repos\FactoryPattern\FactoryExample\FACTORYBLL\bin\Debug\FACTORYDAL.dll
+C:\Users\sulav\source\repos\FactoryPattern\FactoryExample\FACTORYBLL\bin\Debug\DAL.dll
+C:\Users\sulav\source\repos\FactoryPattern\FactoryExample\FACTORYBLL\bin\Debug\FACTORYDAL.pdb
+C:\Users\sulav\source\repos\FactoryPattern\FactoryExample\FACTORYBLL\bin\Debug\DAL.pdb

@@ -60,3 +60,11 @@ C:\Users\sulav\source\repos\FactoryPattern\FactoryExample\FactoryExample\obj\Deb
 C:\Users\sulav\source\repos\FactoryPattern\FactoryExample\FactoryExample\obj\Debug\FactoryExample.csproj.CopyComplete
 C:\Users\sulav\source\repos\FactoryPattern\FactoryExample\FactoryExample\obj\Debug\FactoryExample.dll
 C:\Users\sulav\source\repos\FactoryPattern\FactoryExample\FactoryExample\obj\Debug\FactoryExample.pdb
+C:\Users\sulav\source\repos\FactoryPattern\FactoryExample\FactoryExample\bin\BO.dll
+C:\Users\sulav\source\repos\FactoryPattern\FactoryExample\FactoryExample\bin\BO.pdb
+C:\Users\sulav\source\repos\FactoryPattern\FactoryExample\FactoryExample\bin\BLL.dll
+C:\Users\sulav\source\repos\FactoryPattern\FactoryExample\FactoryExample\bin\FACTORYDAL.dll
+C:\Users\sulav\source\repos\FactoryPattern\FactoryExample\FactoryExample\bin\DAL.dll
+C:\Users\sulav\source\repos\FactoryPattern\FactoryExample\FactoryExample\bin\BLL.pdb
+C:\Users\sulav\source\repos\FactoryPattern\FactoryExample\FactoryExample\bin\FACTORYDAL.pdb
+C:\Users\sulav\source\repos\FactoryPattern\FactoryExample\FactoryExample\bin\DAL.pdb

@@ -13,3 +13,5 @@ C:\Users\sulav\source\repos\FactoryPattern\FactoryExample\BLL\obj\Debug\BLL.cspr
 C:\Users\sulav\source\repos\FactoryPattern\FactoryExample\BLL\obj\Debug\BLL.csproj.CopyComplete
 C:\Users\sulav\source\repos\FactoryPattern\FactoryExample\BLL\obj\Debug\BLL.dll
 C:\Users\sulav\source\repos\FactoryPattern\FactoryExample\BLL\obj\Debug\BLL.pdb
+C:\Users\sulav\source\repos\FactoryPattern\FactoryExample\BLL\bin\Debug\TYPES.dll
+C:\Users\sulav\source\repos\FactoryPattern\FactoryExample\BLL\bin\Debug\TYPES.pdb

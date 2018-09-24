@@ -9,5 +9,6 @@ namespace TYPES
     public interface IEMPLDAL
   
     {
+        int CheckEmployees(IEMPLBO obj);
     }
 }

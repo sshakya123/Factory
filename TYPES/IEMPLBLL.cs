@@ -9,5 +9,6 @@ namespace TYPES
     public interface IEMPLBLL
 
     {
+        int CheckEmp(IEMPLBO obj);
     }
 }
